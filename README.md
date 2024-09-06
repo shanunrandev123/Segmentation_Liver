@@ -1,7 +1,7 @@
 ### Liver Tumor Segmentation using U-NET and 3D convnets
 
 ##### Overview
-The Project implements a 3D UNET model for liver segmentation from MRI scans. The goal of the project is to perform accurate pixel wise classification of liver regions leveraging deep learning for segmentation. 
+The Project implements a 3D UNET model for liver tumor segmentation from MRI scans. The goal of the project is to perform accurate pixel wise classification of tumor regions leveraging deep learning for segmentation. 
 
 
 
