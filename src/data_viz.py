@@ -1,10 +1,13 @@
 import pandas as pd
+import matplotlib
+# matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 import nibabel as nib
 import numpy as np
 from celluloid import Camera
 from IPython.display import HTML
 from pathlib import Path
+import warnings
 
 
 root = Path('/home/ubuntu/liver/data/Task03_Liver_rs/imagesTr')
